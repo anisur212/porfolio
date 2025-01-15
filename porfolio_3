@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anisur Rahman | ডিজিটাল মার্কেটিং স্পেশালিস্ট</title>
+    <style>
+        /* Global Styles */
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(135deg, #f953c6, #b91d73);
+            color: #333;
+        }
+
+        /* Header Section */
+        header {
+            text-align: center;
+            padding: 40px 20px;
+            color: #fff;
+            background: linear-gradient(135deg, #1f4037, #99f2c8);
+            border-bottom: 5px solid #fff;
+        }
+        header h1 {
+            font-size: 2.8em;
+            margin: 0;
+        }
+        header p {
+            font-size: 1.2em;
+            margin: 10px 0 20px;
+        }
+        .profile-pic {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            border: 5px solid #fff;
+            object-fit: cover;
+        }
+
+        /* Container */
+        .container {
+            max-width: 1000px;
+            margin: 30px auto;
+            padding: 20px;
+            background: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+        }
+
+        /* Section Titles */
+        section h2 {
+            font-size: 2em;
+            color: #f953c6;
+            margin-bottom: 15px;
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 5px;
+        }
+
+        /* List and Paragraph Styles */
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            margin-bottom: 10px;
+            font-size: 1.1em;
+        }
+        a {
+            color: #f953c6;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+
+        /* Footer Section */
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            padding: 15px;
+            background: #1f4037;
+            color: #fff;
+            font-size: 0.9em;
+        }
+        footer a {
+            color: #99f2c8;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <img src="your-photo.jpg" alt="Anisur Rahman" class="profile-pic">
+    <h1>Anisur Rahman</h1>
+    <p>ডিজিটাল মার্কেটিং স্পেশালিস্ট</p>
+</header>
+
+<div class="container">
+    <section>
+        <h2>যোগাযোগ</h2>
+        <ul>
+            <li><strong>ইমেল:</strong> <span>msaju7135@gmail.com</span></li>
+            <li><strong>মোবাইল:</strong> <span>01982435038</span></li>
+            <li><strong>লিঙ্কডইন:</strong> <a href="লিঙ্কডইন প্রোফাইল লিঙ্ক" target="_blank">লিঙ্কডইন প্রোফাইল</a></li>
+            <li><strong>ওয়েবসাইট:</strong> <a href="আপনার ওয়েবসাইট লিঙ্ক" target="_blank">আপনার ওয়েবসাইট</a></li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>প্রফেশনাল সারাংশ</h2>
+        <p>আমি একজন ফলাফল-চালিত ডিজিটাল মার্কেটিং বিশেষজ্ঞ, যিনি সোশ্যাল মিডিয়া মার্কেটিং, কনটেন্ট ক্রিয়েশন, এবং এসইও-অপটিমাইজেশনসহ বিভিন্ন মার্কেটিং টুলের মাধ্যমে ব্র্যান্ডের বৃদ্ধি এবং প্রফিট বাড়ানোর অভিজ্ঞতা অর্জন করেছি। আমার লক্ষ্য হচ্ছে ক্রেতাদের চাহিদা অনুযায়ী কার্যকর মার্কেটিং স্ট্রাটেজি তৈরি করে একটি ব্র্যান্ডকে এগিয়ে নিয়ে যাওয়া।</p>
+    </section>
+
+    <section>
+        <h2>কর্মক্ষেত্রের দক্ষতা</h2>
+        <ul>
+            <li>সোশ্যাল মিডিয়া মার্কেটিং (Facebook, Instagram, LinkedIn)</li>
+            <li>এসইও (SEO) এবং এসইএম (SEM)</li>
+            <li>ইমেল মার্কেটিং (Mailchimp, HubSpot)</li>
+            <li>গুগল অ্যানালিটিক্স এবং গুগল অ্যাডস ব্যবস্থাপনা</li>
+            <li>কনটেন্ট ক্রিয়েশন এবং কপিরাইটিং</li>
+            <li>ওয়েবসাইট অপটিমাইজেশন (WordPress, Shopify)</li>
+            <li>ডিজিটাল মার্কেটিং স্ট্রাটেজি ডেভেলপমেন্ট</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>অভিজ্ঞতা</h2>
+        <ul>
+            <li><strong>ডিজিটাল মার্কেটিং এক্সিকিউটিভ:</strong> বিভিন্ন এজেন্সি (জানুয়ারি ২০২৩ - বর্তমান)</li>
+            <li><strong>সোশ্যাল মিডিয়া মার্কেটিং ইন্টার্ন:</strong> বিভিন্ন কোম্পানি (জুন ২০২২ - ডিসেম্বর ২০২২)</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>প্রকল্প</h2>
+        <ul>
+            <li><strong>ই-কমার্স ব্র্যান্ডের এসইও উন্নয়ন:</strong> একটি নতুন ই-কমার্স ব্র্যান্ডের জন্য ৪ মাসে অর্গানিক ট্র্যাফিক ৫০% বৃদ্ধি করেছি।</li>
+            <li><strong>রেস্টুরেন্ট মার্কেটিং ক্যাম্পেইন:</strong> লোকাল রেস্টুরেন্টের জন্য ডিজিটাল ক্যাম্পেইন তৈরি করে কাস্টমার ফুটফল ২০% বৃদ্ধি করেছি।</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>সার্টিফিকেশন</h2>
+        <ul>
+            <li>গুগল ডিজিটাল মার্কেটিং সার্টিফিকেট (2022)</li>
+            <li>হাবস্পট কন্টেন্ট মার্কেটিং সার্টিফিকেট (2023)</li>
+            <li>ফেসবুক ব্লুপ্রিন্ট সার্টিফিকেশন</li>
+        </ul>
+    </section>
+</div>
+
+<footer>
+    <p>© ২০২৫ Anisur Rahman | ডিজিটাল মার্কেটিং স্পেশালিস্ট | ডিজাইনড বাই <a href="#">আপনার নাম</a></p>
+</footer>
+
+</body>
+</html>
